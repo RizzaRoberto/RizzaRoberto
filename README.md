@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Roberto Rizza
 
+:scroll: I have a degree in computer science 
+:computer: I am doing a master's degree in data science
 
 
 <!--
